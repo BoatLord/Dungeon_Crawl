@@ -1,4 +1,21 @@
 #################
+# Unity .gitignore file.
+#################
+.DS_Store
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+dc_proj/Library
+dc_proj/Library/*
+dc_proj/Temp
+dc_proj/Build
+erikv/DC_test_room/Library
+erikv/DC_test_room/Library/*
+erikv/DC_test_room/Temp
+erikv/DC_test_room/Build
+
+#################
 ## Eclipse
 #################
 
